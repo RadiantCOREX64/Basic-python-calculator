@@ -2,6 +2,7 @@
 
 A lightweight calculator built with Python, supporting basic arithmetic operations (addition, subtraction, multiplication, division) with a command-line interface. Ideal for beginners learning Python fundamentals.
 
+
 ## Features
 - ➕➖✖️➗ Basic operations (+, -, *, /)
 - 🖥️ Command-line interface (CLI)
