@@ -16,7 +16,7 @@ A lightweight calculator built with Python, supporting basic arithmetic operatio
 Clone the repository:
 
 bash
-git clone https://github.com/RadiantCOREX64/simple-python-calculator.git
+git clone https://github.com/RadiantCoreLabs/simple-python-calculator.git
 Run the calculator:
 
 bash
